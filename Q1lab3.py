@@ -35,4 +35,3 @@ for inputs in training_inputs:
     print(f"Input: {inputs}, Predicted Output: {perceptron.predict(inputs)}")
     
     
-#2)	To Design and train a perceptron for OR Gate.
